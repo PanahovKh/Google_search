@@ -6,4 +6,3 @@ export default configureStore ({
         user: userReducer
     },
 })
-
